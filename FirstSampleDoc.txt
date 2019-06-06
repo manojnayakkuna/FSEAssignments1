@@ -6,4 +6,6 @@ Compare Testing.
 
 Compare Testing 1.
 
-Added a new line using vi editor and in branch developer.
+Added a new line using vi editor and in branch developer
+
+Added email, profile details and phone number.
