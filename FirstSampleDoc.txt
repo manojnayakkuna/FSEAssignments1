@@ -11,4 +11,3 @@ Added a new line using vi editor and in branch developer
 Added email, profile details and phone number.
 
 Testing merge conflict - added from master branch and in the file FirstSampleDoc.txt
-
