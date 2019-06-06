@@ -1,1 +1,4 @@
 Hi, I am learning Git-DevOps.
+
+Updates in SampleDoc.txt file for merge testing.
+
