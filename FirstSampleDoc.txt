@@ -15,3 +15,5 @@ Testing merge conflict - added from master branch and in the file FirstSampleDoc
 Added from mybranch.
 
 Added for testing rebase conflicts and from master branch.
+
+added a line from master branch and after adding a line mybranch.
