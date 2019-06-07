@@ -17,3 +17,7 @@ Added from mybranch.
 Added for testing rebase conflicts and from master branch.
 
 added a line from master branch and after adding a line mybranch.
+
+Added from mybranch to test the rebase conflicts
+
+
