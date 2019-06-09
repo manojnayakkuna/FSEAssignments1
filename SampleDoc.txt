@@ -4,4 +4,6 @@ Updates in SampleDoc.txt file for merge testing.
 
 I have edited this line from GITHub.
 
-Added a new line.......
+Added a new line......
+
+Testing the GIT Stash - GITIgnore.
