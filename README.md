@@ -3,3 +3,5 @@
 Adding GIT-REBASE Lectures In GIT Advance Part
 
 we have done so much of work together.
+
+Adding new lectures - Stash.
