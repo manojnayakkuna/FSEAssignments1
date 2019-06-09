@@ -3,3 +3,5 @@ Hi, I am learning Git-DevOps.
 Updates in SampleDoc.txt file for merge testing.
 
 I have edited this line from GITHub.
+
+Added a new line.......
