@@ -4,3 +4,5 @@ This file is still not tracked by Git.
 Testing Git with Save message.
 
 learning branch stash.
+
+learning git tagging compare.
