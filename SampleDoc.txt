@@ -9,3 +9,5 @@ Added a new line......
 Testing the GIT Stash - GITIgnore.
 
 learning stash in branch.
+
+Testing GIT tagging.
